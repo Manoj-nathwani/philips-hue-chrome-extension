@@ -5,7 +5,7 @@
 # Features
 - Control all lights together, or individually using the dropdown at the top
 - Change the exact colour and brightness of lights
-- Input for exact hash colours
+- Input exact hash colours
 - Turn lights on/off
 
 ![alt tag](http://i.imgur.com/ZRLqRNf.png)
