@@ -1,5 +1,5 @@
 # philips-hue-chrome-extension
-- A simple way of controlling your Philips Hue lights
+- A simple way of controlling your Philips Hue lights from a Chrome extension
 - I stumbled across this old project and thought I'd open source it 😊
 
 # Features
