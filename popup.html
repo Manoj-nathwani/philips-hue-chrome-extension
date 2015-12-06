@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <title>Philips Hue Controller</title>
+
+    <link href="Hue/css/bootstrap.css" rel="stylesheet" />
+    <link href="Hue/colour-picker/colpick.css" rel="stylesheet" />
+    <link href="Hue/css/styles.css" rel="stylesheet" />
+
+    <script src="Hue/js/jquery.js"></script>
+    <script src="Hue/js/colors.js"></script>
+    <script src="Hue/colour-picker/colpick.js"></script>
+    <script src="Hue/js/scripts.js"></script>
+    <script src="popup.js"></script>
+</head>
+<body>
+
+    <p>
+        <select id="LightSelector" class="form-control">
+            <option value="1,2,3">All lights</option>
+        </select>
+    </p>
+    <p><button class="color-picker"></button></p>
+
+    <div class="btn-group pull-left">
+        <button id="btnLightOn" type="button" class="btn btn-default active">On</button>
+    </div>   
+    <p class="text-right">         
+        <button id="btnUpdate" type="button" class="btn btn-success">Update</button>
+    </p>
+
+</body>
+</html>

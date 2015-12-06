@@ -1,0 +1,20 @@
+body {
+    width: 200px;
+    overflow-x: hidden;
+}
+
+h1 {
+    margin-top: 0;
+    display: inline-block;
+}
+
+.color-picker {
+    border: none;
+    background-color: transparent;
+}
+
+.colpick {
+    border: none !important;
+    background-color: transparent !important;
+    margin-left: -10px !important;
+}
